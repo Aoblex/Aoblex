@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-哦，对的对的
-哦，不对不对
+This is a stubborn nerd 🤓
